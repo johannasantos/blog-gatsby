@@ -3,7 +3,6 @@ title: 'Mi primer post'
 date: '2020-01-20'
 ---
 
-# Mi primer post
 
 **100 days of Code challenges**
 

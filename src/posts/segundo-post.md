@@ -3,7 +3,6 @@ title: 'Mi segundo post'
 date: '2020-01-20'
 ---
 
-# Mi segundo post
 
 
 

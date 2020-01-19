@@ -7,8 +7,7 @@ import SEO from '../components/seo'
 const BlogPage = () => {
     const posts = useStaticQuery(graphql`
     query {
-        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC })
-        {
+      allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
         totalCount
         edges {
           node {
@@ -16,6 +15,9 @@ const BlogPage = () => {
             frontmatter {
               title
               date(formatString: "DD MMMM, YYYY", locale: "es")
+            }
+            fields {
+              slug
             }
             excerpt
           }
@@ -26,22 +28,27 @@ const BlogPage = () => {
     return (
         <Layout>
             <SEO title="Blog" />
-            <h1>Hola soy Jo!</h1>
-            <p>Bienvenidx a mi Blog!</p>
+            <h1>Hola</h1>
+            <p>Este es mi blog :)</p>
             <p>Tengo en total {posts.allMarkdownRemark.totalCount} post(s)</p>
             {posts.allMarkdownRemark.edges.map(({ node }) => (
-                <article
-                    style={{
-                        border: '1px solid grey',
-                        borderRadius: '5px',
-                        margin: '24px',
-                        padding: '12px',
-                    }}
+                <Link
+                    to={node.fields.slug}
+                    style={{ textDecoration: 'none', color: '#2f2f2f' }}
                 >
-                    <h2>{node.frontmatter.title}</h2>
-                    <i>{node.frontmatter.date}</i>
-                    <p>{node.excerpt}</p>
-                </article>
+                    <article
+                        style={{
+                            border: '1px solid grey',
+                            borderRadius: '5px',
+                            margin: '24px',
+                            padding: '12px',
+                        }}
+                    >
+                        <h2>{node.frontmatter.title}</h2>
+                        <i>{node.frontmatter.date}</i>
+                        <p>{node.excerpt}</p>
+                    </article>
+                </Link>
             ))}
         </Layout>
     )
