@@ -7,8 +7,9 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Jo Bleu`,
+    title: `Jo Bleu blog`,
     description: `A blog made by Jo Bleu`,
+    siteUrl: `https://jobleu-blog.netlify.com/`,
     copyrights: '',
     author: `@jo_bleu`,
     logo: {
@@ -38,6 +39,7 @@ module.exports = {
   plugins: [
     `babel-preset-gatsby`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
