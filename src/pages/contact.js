@@ -7,19 +7,19 @@ const ContactPage = () => {
         <Layout>
             <h1>Contacto</h1>
             <p>
-                Podes comunicarte conmigo en <a href="https://twitter.com/johannableu" target="_blank">@johannableu</a> en Twitter!
+                Twitter: <a href="https://twitter.com/johannableu" target="_blank">@johannableu</a>
             </p>
             <p>
-                Podes comunicarte conmigo en mi pagina <a href="https://www.instagram.com/jo_bleu" target="_blank">Jo Bleu</a> en Facebook!
+                Facebook: <a href="https://www.instagram.com/jo_bleu" target="_blank">Jo Bleu</a>
             </p>
             <p>
-                Podes comunicarte conmigo siguiendome en <a href="https://www.instagram.com/jo_bleu" target="_blank">@jo_bleu</a> en Instagram!
+                Instagram: <a href="https://www.instagram.com/jo_bleu" target="_blank">@jo_bleu</a>
             </p>
             <p>
-                Podes ver mis proyectos en <a href="https://github.com/johannasantos" target="_blank">@johannasantos</a> en Github!
+                Github: <a href="https://github.com/johannasantos" target="_blank">@johannasantos</a>
             </p>
             <p>
-                Y si queres escuchar mi música there you go: <a href="https://open.spotify.com/artist/4fjHDOnQRVHavkRGs0zgvL" target="_blank">Jo Bleu</a> en Spotify!
+                Y si queres escuchar mi música en Spotify: <a href="https://open.spotify.com/artist/4fjHDOnQRVHavkRGs0zgvL" target="_blank">Jo Bleu</a>
             </p>
 
         </Layout>
