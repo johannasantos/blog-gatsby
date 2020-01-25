@@ -4,6 +4,7 @@ import { Link, useStaticQuery, graphql } from 'gatsby'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
+
 const BlogPage = () => {
     const posts = useStaticQuery(graphql`
     query {
@@ -34,7 +35,7 @@ const BlogPage = () => {
             {posts.allMarkdownRemark.edges.map(({ node }) => (
                 <Link
                     to={node.fields.slug}
-                    style={{ textDecoration: 'none', color: '#2f2f2f' }}
+                    style={{ textDecoration: 'none', color: '#A9A9B3' }}
                 >
                     <article
                         style={{
@@ -42,7 +43,9 @@ const BlogPage = () => {
                             borderRadius: '5px',
                             margin: '24px',
                             padding: '12px',
+
                         }}
+
                     >
                         <h2>{node.frontmatter.title}</h2>
                         <i>{node.frontmatter.date}</i>
