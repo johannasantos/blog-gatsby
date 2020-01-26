@@ -9,7 +9,6 @@ module.exports = {
   siteMetadata: {
     title: `Jo Bleu blog`,
     description: `A blog made by Jo Bleu`,
-    siteUrl: `https://jobleu-blog.netlify.com/`,
     copyrights: '',
     author: `@jo_bleu`,
     logo: {
