@@ -3,6 +3,7 @@ title: '100 Days of Code Challenge'
 date: '2020-01-25'
 ---
 
+<div style="text-align: left">
 ### Mi (poca) experiencia haciendo el challenge siendo Jr
 
 
@@ -34,7 +35,7 @@ En <a href="https://twitter.com/johannableu/status/1212452687142424577" target="
 
 Y bueno hasta acá dejo el post, espero les haya servido y ojalá se sumen al challenge!
 
-
+</div>
 
 
 
