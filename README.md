@@ -62,5 +62,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy on Netlify](https://jobleu-blog.netlify.com/)
+[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)]https://jobleu-blog.netlify.com/)
 
