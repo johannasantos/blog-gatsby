@@ -13,9 +13,6 @@ export default ({ data }) => {
     </Layout>
   )
 }
-export default ({ data }) => {
-  return <Layout slug={data.markdownRemark.fields.slug}>{/* ... */}</Layout>;
-};
 
 export const query = graphql`
   query($slug: String!) {

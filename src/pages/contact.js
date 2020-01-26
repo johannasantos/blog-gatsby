@@ -10,15 +10,16 @@ const ContactPage = () => {
                 Twitter: <a href="https://twitter.com/johannableu" target="_blank">@johannableu</a>
             </p>
             <p align="center">
-                Facebook: <a href="https://www.instagram.com/jo_bleu" target="_blank">Jo Bleu</a>
+                Github: <a href="https://github.com/johannasantos" target="_blank">@johannasantos</a>
             </p>
             <p align="center">
                 Instagram: <a href="https://www.instagram.com/jo_bleu" target="_blank">@jo_bleu</a>
             </p>
             <p align="center">
-                Github: <a href="https://github.com/johannasantos" target="_blank">@johannasantos</a>
+                Facebook: <a href="https://www.facebook.com/jobleu.music/" target="_blank">Jo Bleu</a>
             </p>
-            <p align="center">
+
+            <p>
                 Y si queres escuchar mi música en Spotify: <a href="https://open.spotify.com/artist/4fjHDOnQRVHavkRGs0zgvL" target="_blank">Jo Bleu</a>
             </p>
 
