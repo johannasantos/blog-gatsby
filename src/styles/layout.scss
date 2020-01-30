@@ -238,6 +238,7 @@ button, input, textarea {
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  
 }
 
 .content {
@@ -248,7 +249,9 @@ button, input, textarea {
   justify-content: center;
   margin: 50px auto;
   width: 100%;
-  max-width: 800px;;
+  max-width: 800px;
+  padding: 0 24px;
+
 
   @media (--phone) {
     margin-top: 0;

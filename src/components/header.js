@@ -5,7 +5,7 @@ import { Helmet } from 'react-helmet'
 
 import Menu from './menu'
 
-import style from '../styles/header.module.css'
+import style from '../styles/header.module.scss'
 
 const Header = props => {
   const {
@@ -52,12 +52,12 @@ const Header = props => {
               {siteLogo.src ? (
                 <img src={siteLogo.src} alt={siteLogo.alt} />
               ) : (
-                <>
-                  <span className={style.mark}>></span>
-                  <span className={style.text}>{logoText}</span>
-                  <span className={style.cursor} />
-                </>
-              )}
+                  <>
+                    <span className={style.mark}>></span>
+                    <span className={style.text}>{logoText}</span>
+                    <span className={style.cursor} />
+                  </>
+                )}
             </div>
           </Link>
           <span className={style.right}>
