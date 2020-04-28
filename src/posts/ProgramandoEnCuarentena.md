@@ -9,11 +9,11 @@ date: '2020-04-15'
 
 Hey! Desde enero que no escribo un post, realmente esa época se ve lejana ahora y solo pasaron un par de meses 💀
 
-Antes de nada, ya que quizas estes leyendo este post pero no me conozcas,
+Antes de nada, ya que quizás estes leyendo este post pero no me conozcas,
 soy Jo, hago música, me gusta programar y testear cosas. 
-Desde que empezo el 2020 trabajo como QA Automation Engineer 💃 que es una mezcla entre ser QA y dev, y estoy aprendiendo un monton de cosas nuevas, más que nada programación orientada a objetos, patrones de diseño y nuevas tools para testear. 
+Desde que empezó el 2020 trabajo como QA Automation Engineer 💃 que es una mezcla entre ser QA y dev, y estoy aprendiendo un montón de cosas nuevas, más que nada programación orientada a objetos, patrones de diseño y nuevas tools para testear. 
 
-Bueno, yendo a lo que venia el post...
+Bueno, yendo a lo que venía el post...
 
 **~~intentando~~ programar en cuarentena**
 
@@ -22,13 +22,13 @@ Bueno, yendo a lo que venia el post...
 </p>
 
 
-Primero que nada, yo venía pispeando como una campeona lo del challenge de <a href="https://jobleu-blog.netlify.app/100DaysOfCode/" target="_blank">100 Days Of Code</a> y bueno _pasaron cosas_ entre ellas, el corona virus. 
+Primero que nada, yo venía pisteando como una campeona lo del challenge de <a href="https://jobleu-blog.netlify.app/100DaysOfCode/" target="_blank">100 Days Of Code</a> y... _pasaron cosas_ entre ellas, el corona virus. 
 Lo cual nos arruinó todo y nos puso en esta cuarentena obligatoria, la cual me parece correcta pero que obvio, MUY dificil de sobrellevar. 
 
 Y si, quizás pienses que voy a decir que es una oportunidad para sentarse y aprender sobre programación en tu tiempo libre, la cual en un punto lo es **peeero** eso no significa que haya que hacerlo si o si porque sino estamos perdiendo tiempo.
 
 En mi caso, lo hago cuando me siento realmente con ganas, antes lo hacía todos los días (o lo intentaba), ahora realmente lo hago cuando lo veo como algo divertido de hacer y no una carga de "tengo que verme todos estos cursos de Udemy y leer todos estos libros en 2 semanas porque sino nunca voy a avanzar". 
-Tratar de no ponerme más presión de la que llevo encima con toda esta situación es lo que me esta ayudando a no desesperar, aunque obvio, a veces es dificil y entro en crisis existenciales 😬  pero bueno... gajes del oficio en sistemas no? (?)
+Tratar de no ponerme más presión de la que ya llevo encima con toda esta situación es lo que me esta ayudando a sobrellevar la ansiedad, aunque obvio, a veces es dificil y entro en crisis existenciales 😬  pero bueno... gajes del oficio en sistemas no? (?)
 
 ### Proyectos durante la cuarentena
 
