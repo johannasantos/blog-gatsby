@@ -18,5 +18,5 @@ Bueno, yendo a lo que venia el post...
 **~~intentando~~ programar en cuarentena**
 
 <p align="center">
-<img src="https://giphy.com/gifs/jOpLbiGmHR9S0/html5">
+<img src="https://media.giphy.com/media/jOpLbiGmHR9S0/giphy.gif">
 </p>
