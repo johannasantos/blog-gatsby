@@ -16,3 +16,7 @@ Desde que empezo el 2020 trabajo como QA Automation Engineer 💃 que es una mez
 Bueno, yendo a lo que venia el post...
 
 **~~intentando~~ programar en cuarentena**
+
+<p align="center">
+<img src="https://giphy.com/gifs/jOpLbiGmHR9S0/html5">
+</p>
