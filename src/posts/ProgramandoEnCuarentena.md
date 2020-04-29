@@ -44,10 +44,7 @@ Tratar de no ponerme más presión de la que ya llevo encima con toda esta situa
 
 
 
-También como la cereza 🍒 del postre, recomiendo ver la charla sobre _Python aplicado al análisis de datos_ de la querida Maga de Python 🧙, o ministra de la siesta como la conocemos en twitter <a href="https://twitter.com/printmaga" target="_blank">(@printmaga)</a> en el canal de Women Who Code 💕.
-
-[![](http://img.youtube.com/vi/tObNCI11CcQ/0.jpg)](http://www.youtube.com/watch?v=tObNCI11CcQ "")
-
+También como la cereza 🍒 del postre, recomiendo ver la charla sobre <a href="http://www.youtube.com/watch?v=tObNCI11CcQ" target="_blank">Python aplicado al análisis de datos</a> de la querida Maga de Python 🧙, o ministra de la siesta como la conocemos en twitter <a href="https://twitter.com/printmaga" target="_blank">(@printmaga)</a> en el canal de Women Who Code 💕.
 
 
 
